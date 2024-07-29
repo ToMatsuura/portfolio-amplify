@@ -55,6 +55,7 @@ function App() {
       <div class="bg-red-500 text-white p-4">  
     Hello, Tailwind CSS!  
     </div>
+    <div>gitのために追加</div>
 
     </>
   );
