@@ -55,7 +55,6 @@ function App() {
       <div class="bg-red-500 text-white p-4">  
     Hello, Tailwind CSS!  
     </div>
-    <p className="m-0 text-gray-400">Tailwind CSSです</p>
 
     </>
   );
